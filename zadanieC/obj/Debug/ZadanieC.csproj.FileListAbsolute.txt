@@ -1,0 +1,11 @@
+E:\Projekty\ZadanieC\ZadanieC\bin\Debug\ZadanieC.exe.config
+E:\Projekty\ZadanieC\ZadanieC\bin\Debug\ZadanieC.exe
+E:\Projekty\ZadanieC\ZadanieC\bin\Debug\ZadanieC.pdb
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.csprojResolveAssemblyReference.cache
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.Properties.Resources.resources
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.csproj.GenerateResource.Cache
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.exe
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.pdb
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.Application.resources
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.Form2.resources
+E:\Projekty\ZadanieC\ZadanieC\obj\Debug\ZadanieC.Form3.resources
